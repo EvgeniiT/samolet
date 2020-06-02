@@ -10,7 +10,7 @@ import 'antd/dist/antd.css';
 
 ReactDOM.render(
   <ConfigProvider locale={ruRU}>
-    <BrowserRouter>
+    <BrowserRouter basename={process.env.public_url}>
       <App />
     </BrowserRouter>
   </ConfigProvider>,
