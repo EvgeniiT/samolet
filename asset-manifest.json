@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/samolet/static/css/main.7db912ed.chunk.css",
-    "main.js": "/samolet/static/js/main.88c2ffd6.chunk.js",
-    "main.js.map": "/samolet/static/js/main.88c2ffd6.chunk.js.map",
+    "main.js": "/samolet/static/js/main.8e801106.chunk.js",
+    "main.js.map": "/samolet/static/js/main.8e801106.chunk.js.map",
     "runtime-main.js": "/samolet/static/js/runtime-main.c57ca51e.js",
     "runtime-main.js.map": "/samolet/static/js/runtime-main.c57ca51e.js.map",
     "static/css/2.81187608.chunk.css": "/samolet/static/css/2.81187608.chunk.css",
     "static/js/2.5d379253.chunk.js": "/samolet/static/js/2.5d379253.chunk.js",
     "static/js/2.5d379253.chunk.js.map": "/samolet/static/js/2.5d379253.chunk.js.map",
     "index.html": "/samolet/index.html",
-    "precache-manifest.c474518903c85ee89ceabf2426bcfefe.js": "/samolet/precache-manifest.c474518903c85ee89ceabf2426bcfefe.js",
+    "precache-manifest.367358bbfd1462839769282deeb2dcfa.js": "/samolet/precache-manifest.367358bbfd1462839769282deeb2dcfa.js",
     "service-worker.js": "/samolet/service-worker.js",
     "static/css/2.81187608.chunk.css.map": "/samolet/static/css/2.81187608.chunk.css.map",
     "static/css/main.7db912ed.chunk.css.map": "/samolet/static/css/main.7db912ed.chunk.css.map",
@@ -20,6 +20,6 @@
     "static/css/2.81187608.chunk.css",
     "static/js/2.5d379253.chunk.js",
     "static/css/main.7db912ed.chunk.css",
-    "static/js/main.88c2ffd6.chunk.js"
+    "static/js/main.8e801106.chunk.js"
   ]
 }
