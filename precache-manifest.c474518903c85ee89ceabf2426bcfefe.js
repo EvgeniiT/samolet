@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "cf3e92eb9e259de76305fe6998159ec5",
+    "revision": "bee8e9c28be67e2a14122508c618defa",
     "url": "/samolet/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/samolet/static/css/2.81187608.chunk.css"
   },
   {
-    "revision": "1fd783cc4c869fe92100",
+    "revision": "2780e275b4edf6cfe820",
     "url": "/samolet/static/css/main.7db912ed.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/samolet/static/js/2.5d379253.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "1fd783cc4c869fe92100",
-    "url": "/samolet/static/js/main.c8f8b0e8.chunk.js"
+    "revision": "2780e275b4edf6cfe820",
+    "url": "/samolet/static/js/main.88c2ffd6.chunk.js"
   },
   {
     "revision": "867ab961fa7f00a7b24e",
